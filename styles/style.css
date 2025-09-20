@@ -52,6 +52,7 @@ ul > li{
 ul > li > a{
         color: #B1880B;
         text-decoration: none;
+        font-size: 1.4rem;
 }
 
 .nav-list{
